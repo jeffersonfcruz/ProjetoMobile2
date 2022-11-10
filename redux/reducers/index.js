@@ -1,8 +1,8 @@
 import addItem from "./addItem";
 import { combineReducers } from "redux";
 
-const rootReducer = combineReducers({
+const rootReducres = combineReducers({
   addItem,
 });
 
-export default rootReducer;
+export default rootReducres;
